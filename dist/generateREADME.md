@@ -18,7 +18,7 @@
   ## [Installation](#Installation)
   npm inquirer
 
-  ## [Usage]
+  ## [Usage](#usage)
   use the command line and answer the following questions
   
   ## [Contributing](#Contributing)

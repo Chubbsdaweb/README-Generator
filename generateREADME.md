@@ -3,7 +3,7 @@
   
       ![badge](https://img.shields.io/badge/license-MIT-blue)
         
-  ## Table-of-Contents
+   ## Table-of-Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -20,13 +20,11 @@
   ## [Installation](#Installation)
   SO THAT I can quickly create a professional README for a new project
 
-  ## [Usage]
+  ## [Usage](#usage)
   use the command line and answer the following questions
   
-  
-  
   ## [Contributing](#Contributing)
-  no
+  no contributions were made
   
   ## [Tests](#Tests)
   use the command line and answer the following questions
@@ -34,7 +32,7 @@
   ## [MadeWith](#MadeWith)
   HTML NODE.js 
 
-  ## Questions (#Questions)
+  ## [Questions](#Questions)
   Checkout the following links to contact me:
   [GitHub](https://github.com/Chubbsdaweb)
   Email: shakimeatmon@gmail.com

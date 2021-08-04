@@ -30,7 +30,7 @@
   ## [MadeWith](#MadeWith)
   node.js
 
-  ## Questions (#Questions)
+  ## [Questions](#Questions)
   Checkout the following links to contact me if you have any questions:
   [GitHub](https://github.com/Chubbsdaweb)
   Email: shakimeatmon@gmail.com

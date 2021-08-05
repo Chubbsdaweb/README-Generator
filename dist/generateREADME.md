@@ -1,7 +1,7 @@
 # Readme generator
 
   
-      ![badge](https://img.shields.io/badge/license-none-blue)
+     ![License](https://img.shields.io/badge/License-MIT-blue.svg)
         
   ## Table-of-Contents
   * [Description](#description)

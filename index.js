@@ -155,7 +155,7 @@ function init() {
     inquirer.prompt(questions)
     .then (function (userInput){
         console.log(userInput)
-        writeToFile("generateREADME.md", generateMarkdown(userInput))
+        writeToFile("./dist/generateREADME.md", generateMarkdown(userInput))
     });
 };
 
